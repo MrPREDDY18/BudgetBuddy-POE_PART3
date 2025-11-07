@@ -55,7 +55,7 @@ BudgetBuddy/
 
 1. Clone the repository:  
 
-git clone https://github.com/your-username/BudgetBuddy.git
+https://github.com/MrPREDDY18/BudgetBuddy-POE_PART3.git
 
 2. Open the project in Android Studio.
 
